@@ -1,0 +1,29 @@
+2019-08-16 01:16:52,902:root:ERROR:<class 'IndexError'>: list index out of range
+2019-08-16 01:22:00,842:root:INFO:create a playlist from - starboy: Keep our streets safe. Don't give snails cocaine.
+
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2019-08-16 01:22:14,973:root:INFO:create a playlist from starboy: You are missing the all important punctuation fool.
+2019-08-16 01:23:01,142:root:INFO:DJ, spin that shit - DOOOOOOOOOOM: Just throw it toward my face.
+
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2019-08-16 01:24:08,381:root:INFO:WU-TANG!!!!!: Not sure what you mean. Try *<some command> - <SONG NAME or ARTIST NAME>*.
+2019-08-16 01:24:51,584:root:INFO:DJ, spin that shit - WU-TANG!: He didn't want the drama
+
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2019-08-16 01:30:33,144:root:INFO:create a playlist from - HACK ALL THE MACHINES PART 3!!!: I'm gonna roll the dice on this one.
+
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2019-08-16 02:44:17,152:root:INFO:create a playlist from - Rick Astley: I guess I'm a dog person.
+
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2019-08-16 02:53:55,277:root:INFO:create a playlist from - Rick Astley: Later, friends. I have a plane to catch.
+
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2019-08-16 03:11:06,749:asyncio:ERROR:Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f19d2a62438>
+2019-08-16 03:11:06,749:asyncio:ERROR:Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x7f19d0e520a8>, 1278.788075897)]', '[(<aiohttp.client_proto.ResponseHandler object at 0x7f19d0e52408>, 1285.894111272)]']
+connector: <aiohttp.connector.TCPConnector object at 0x7f19d17b1470>
+2019-08-16 03:11:06,750:root:INFO:create a playlist from - Rick Astley: Just throw it toward my face.
+
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
