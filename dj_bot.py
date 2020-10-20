@@ -9,7 +9,6 @@ import spots
 import asyncio
 from exception import BotException
 
-
 logging.basicConfig(filename='dj_bot.log', filemode='a', format='%(asctime)s:%(name)s:%(levelname)s:%(message)s', level=logging.INFO)
 
 DEBUG = True

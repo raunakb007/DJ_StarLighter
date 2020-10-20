@@ -1,7 +1,6 @@
 import spotify
 import asyncio
 
-
 async def spot_search(search):
     client = spotify.Client('7c53c48485d5470badc45ef1fefb92aa', 'c74a53cbe9d44073a6febdf4cf069cdd')
 
